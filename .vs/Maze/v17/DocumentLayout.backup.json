@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viktor\\Desktop\\Maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9D128C-F658-462A-A068-30D3423E5EAA}|Maze.vcxproj|C:\\Users\\Viktor\\Desktop\\Maze\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD9D128C-F658-462A-A068-30D3423E5EAA}|Maze.vcxproj|solutionrelative:Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9D128C-F658-462A-A068-30D3423E5EAA}|Maze.vcxproj|C:\\Users\\Viktor\\Desktop\\Maze\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD9D128C-F658-462A-A068-30D3423E5EAA}|Maze.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maze.cpp",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\Maze\\Maze.cpp",
+              "RelativeDocumentMoniker": "Maze.cpp",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\Maze\\Maze.cpp",
+              "RelativeToolTip": "Maze.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T13:32:04.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\Maze\\Header.h",
+              "RelativeDocumentMoniker": "Header.h",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\Maze\\Header.h",
+              "RelativeToolTip": "Header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T14:56:52.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
