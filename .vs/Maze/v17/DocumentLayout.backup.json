@@ -18,26 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 234,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Maze.cpp",
-              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\Maze\\Maze.cpp",
-              "RelativeDocumentMoniker": "Maze.cpp",
-              "ToolTip": "C:\\Users\\Viktor\\Desktop\\Maze\\Maze.cpp",
-              "RelativeToolTip": "Maze.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-12T13:32:04.298Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 213,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -47,9 +28,21 @@
               "RelativeDocumentMoniker": "Header.h",
               "ToolTip": "C:\\Users\\Viktor\\Desktop\\Maze\\Header.h",
               "RelativeToolTip": "Header.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-12T14:56:52.752Z",
+              "WhenOpened": "2024-10-12T20:33:26.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maze.cpp",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\Maze\\Maze.cpp",
+              "RelativeDocumentMoniker": "Maze.cpp",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\Maze\\Maze.cpp",
+              "RelativeToolTip": "Maze.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T13:32:04.298Z",
               "EditorCaption": ""
             }
           ]

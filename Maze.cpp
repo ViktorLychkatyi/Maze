@@ -21,7 +21,7 @@ void generation_location(int HEIGHT, int WIDTH, int** location) {
 
             // вероятность объектов сколько их будет
             if (location[y][x] == ENEMY) { // враги
-                int prob = rand() % 5; 
+                int prob = rand() % 5;
                 if (prob != 0)
                     location[y][x] = HALL;
             }
@@ -280,7 +280,7 @@ int main() {
     int coins = 0;
     int HP = 100;
     int energy = 900;
-    system("title Бомбер!");
+    system("title Maze");
     HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);
     CONSOLE_CURSOR_INFO info;
     info.bVisible = false;
